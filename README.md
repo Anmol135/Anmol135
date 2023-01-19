@@ -4,4 +4,4 @@
 
 -I want to get into Web Development and make fun Interactive Projects.
 
--Learning about the Web is fun and frustrating at the same time.
+-Coding is fun and frustrating at the same time.
